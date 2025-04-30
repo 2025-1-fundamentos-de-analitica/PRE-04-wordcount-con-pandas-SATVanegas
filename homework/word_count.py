@@ -1,4 +1,4 @@
-"""Taller presencial"""
+"""Taller evaluable"""
 
 # pylint: disable=broad-exception-raised
 
