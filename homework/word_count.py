@@ -181,7 +181,7 @@ def run_job(input_directory, output_directory):
     create_marker(output_directory)
 
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     copy_raw_files_to_input_folder(n=1000)
 
     start_time = time.time()
